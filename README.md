@@ -1,8 +1,16 @@
 ### Hi there 👋
 
-## 📫 How to reach me: https://www.linkedin.com/in/nick-garbalau/
-## 🔭 I’m currently working with: React, TypeScript, Next
-## 🌱 I love: Reading, History, Meditations, Games
+📫 How to reach me: https://www.linkedin.com/in/nick-garbalau/
+
+<br>
+
+🔭 I’m currently working with: React, TypeScript, Next
+
+<br>
+
+🌱 I love: Reading, History, Meditations, Games
+
+<br>
 
 <!--
 **garbalau-github/garbalau-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
