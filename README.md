@@ -2,7 +2,7 @@
 
 📫 Reach me: https://www.linkedin.com/in/nick-garbalau/
 <br>
-🔭 Currently working with: React, TypeScript, Next
+🔭 Currently working with: React, Next, TS
 <br>
 <!--
 **garbalau-github/garbalau-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
