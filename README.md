@@ -1,9 +1,7 @@
-### Welcome 👋
-
+### Hey dear visitor 👋
 <br>
-- 🔭 I’m currently working with React, Next, MongoDB, Redux, TS and more
-- 🌱 I’m currently learning everything I am interested in
-- 📫 How to reach me: Find Twitter or LinkedIn profiles in my Bio
+- 🔭 I’m currently working with React, Next, MongoDB, Redux, TS and more <br>
+- 📫 How to reach me: Find Twitter or LinkedIn profiles in my Bio <br>
 <br>
 <!--
 **garbalau-github/garbalau-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
