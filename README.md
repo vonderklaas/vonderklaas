@@ -1,6 +1,5 @@
 ### Hey dear visitor 👋
 - 🔭 I’m currently working with React, Next, MongoDB, Redux, TS and more <br>
-- 📫 How to reach me: garbalaunick@gmail.com <br>
 <!--
 **garbalau-github/garbalau-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
