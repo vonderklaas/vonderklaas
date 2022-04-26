@@ -2,7 +2,7 @@
 - 🔭 Currently working on a problem collector app
 - ✨ In love with: React, Next, TypeScript, GraphQL
 - 🌱 In 2022 plan to dive into Python
-- 📫 Read me: @garbalau_twitt
+- 📫 Follow me: https://twitter.com/garbalau_twitt
 - 📫 Work with me: https://www.linkedin.com/in/garbalau-in/
 <!--
 **garbalau-github/garbalau-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
