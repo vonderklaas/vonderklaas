@@ -1,9 +1,9 @@
-### Hey dear visitor 👋
-🔭 Currently working on secret personal project
-🌱 I am in love with: Next, React, TypeScript, GraphQL
-👯 In 2022 plan to learn Python and its ecosystem
-📫 Twitter: https://twitter.com/garbalau_twitt
-📫 LinkedIn: https://www.linkedin.com/in/garbalau-in/
+### Hello 👋
+- 🔭 Currently working on a problem collector app
+- ✨ In love with: React, Next, TypeScript, GraphQL
+- 🌱 In 2022 plan to dive into Python
+- 📫 Read me: @garbalau_twitt
+- 📫 Work with me: https://www.linkedin.com/in/garbalau-in/
 <!--
 **garbalau-github/garbalau-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
