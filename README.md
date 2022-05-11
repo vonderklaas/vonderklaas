@@ -3,7 +3,7 @@
 - ✨ In ❤️ with React ⚛
 - 🌱 In 2022 plan to dive into Python and its ecosystem
 - 📫 Contact me https://www.linkedin.com/in/garbalau-in/
-- ⚡  P.S -> If you want to join the "EARTHQUITE" project, please feel free to contact me!
+- ⚡  P.S -> If you want to join the EARTHQUIET team, please feel free to contact me!
 <!--
 **garbalau-github/garbalau-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
