@@ -2,7 +2,7 @@
 - ✨ Stack: React, TypeScript, Next, GraphQL
 - 👷‍♂️ Work Profile: https://www.linkedin.com/in/garbalau-in/
 - 📚 Articles: https://dev.to/garbalau
-- 👨‍💻 Off-work: Working on World Problems collector: https://www.earthquiet.com/
+- 👨‍💻 Off-work: https://www.earthquiet.com/
 - 🧩 Learning: In 2022 plan to dive into the Python
 - 📬 Email: garbalaunick@gmail.com
 - 🌍 P.S. -> Want to join EARTHQUIET team? Please feel free to contact me!
