@@ -1,10 +1,11 @@
-### Hello world! 👋
-- 🔭 Currently working on a problem collector platform
-- ✨ In ❤️ with React ⚛
-- 🌱 In 2022 plan to dive into Python and its ecosystem
-- 📫 Contact me https://www.linkedin.com/in/garbalau-in/
-- 💬 Digital Withdrawal: https://dev.to/garbalau/digital-withdrawal-311g
-- ⚡  P.S -> If you want to join the EARTHQUIET team, please feel free to contact me!
+### Hello, friends! 🪷
+- ✨ Stack: React, TypeScript, Next, GraphQL
+- 👷‍♂️ Work Profile: https://www.linkedin.com/in/garbalau-in/
+- 📚 Articles: https://dev.to/garbalau
+- 👨‍💻 Off-work: Working on World Problems collector
+- 🧩 Learning: In 2022 plan to dive into the Python
+- 📬 Email: garbalaunick@gmail.com
+- 🌍 P.S. -> Want to join EARTHQUIET team? Please feel free to contact me!
 
 <!--
 **garbalau-github/garbalau-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
