@@ -1,6 +1,7 @@
 ### Hello, friends! 🪷
 - ✨ Stack: React, TypeScript, Next, GraphQL
 - 👷‍♂️ Work Profile: https://www.linkedin.com/in/garbalau-in/
+- 🔮 Twitter: https://twitter.com/garbalau_twitt
 - 📚 Articles: https://dev.to/garbalau
 - 👨‍💻 Off-work: https://www.earthquiet.com/
 - 🧩 Learning: In 2022 plan to dive into the Python
