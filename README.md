@@ -3,7 +3,7 @@
 - 👷‍♂️ Work Profile: https://www.linkedin.com/in/garbalau-in/
 - 🔮 Twitter: https://twitter.com/garbalau_twitt
 - 📚 Articles: https://dev.to/garbalau
-- 👨‍💻 Off-work: https://www.earthquiet.com/
+- 👨‍💻 Personal Project: https://www.earthquiet.com/
 - 🧩 Learning: In 2022 plan to dive into the Python
 - 📬 Email: garbalaunick@gmail.com
 - 🌍 P.S. -> Want to join EARTHQUIET team? Please feel free to contact me!
