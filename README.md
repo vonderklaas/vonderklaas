@@ -1,12 +1,10 @@
-### Hello, friends! 🪷
-- ✨ Stack: React, TypeScript, Next, GraphQL
-- 👷‍♂️ Work Profile: https://www.linkedin.com/in/garbalau-in/
+### Hello everyone! 🪷
+- 👷‍♂️ Work: https://www.linkedin.com/in/garbalau-in/
 - 🔮 Twitter: https://twitter.com/garbalau_twitt
 - 📚 Articles: https://dev.to/garbalau
-- 👨‍💻 Personal Project: https://www.earthquiet.com/
-- 🧩 Learning: In 2022 plan to dive into the Python
+- 👨‍💻 Project: https://www.earthquiet.com/
 - 📬 Email: garbalaunick@gmail.com
-- 🌍 P.S. -> Want to join EARTHQUIET team? Please feel free to contact me!
+- 🌍 Want to join EARTHQUIET team? Please, feel free to contact me!
 
 <!--
 **garbalau-github/garbalau-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
