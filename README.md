@@ -1,7 +1,7 @@
 ### Hello everyone! 🪷
 - 👷‍♂️ Work: https://www.linkedin.com/in/garbalau-in/
-- 🪺 Twitter: https://twitter.com/garbalau_twitt
 - 👨‍💻 Personal Project: https://www.earthquiet.com/
+- 🔮 Twitter: https://twitter.com/garbalau_twitt
 - 📬 Email: garbalaunick@gmail.com
 - 🌍 Want to join EARTHQUIET team? Please, feel free to contact me!
 
