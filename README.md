@@ -1,14 +1,19 @@
-### Hello everyone! 🪷
-- 👷‍♂️ Work: https://www.linkedin.com/in/garbalau-in/
-- 👨‍💻 Personal Project: https://www.earthquiet.com/
-- 🔮 Twitter: https://twitter.com/garbalau_twitt
-- 📬 Email: garbalaunick@gmail.com
-- 🌍 Want to join EARTHQUIET team? Please, feel free to contact me!
+## Hello dear visitor 🪷!
 
-### Languages and Tools:
+### Technologies:
 
+<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garbalau-github&layout=compact&hide_title=1&card_width=300" alt="Technologies used the most" />
 
-<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+### Personal Project:
+https://www.earthquiet.com/
+<br>
+Want to join EARTHQUIET team? Please, feel free to contact me!
+
+### Connect:
+
+- LinkedIn: https://www.linkedin.com/in/garbalau-in/
+- Twitter: https://twitter.com/garbalau_twitt
+- Gmail: garbalaunick@gmail.com
 
 <!--
 **garbalau-github/garbalau-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
