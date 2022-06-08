@@ -4,11 +4,6 @@
 
 <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garbalau-github&layout=compact&hide_title=1&card_width=300" alt="Technologies used the most" />
 
-### Personal Project:
-https://www.earthquiet.com/
-<br>
-Want to join EARTHQUIET team? Please, feel free to contact me!
-
 ### Connect:
 
 - LinkedIn: https://www.linkedin.com/in/garbalau-in/
