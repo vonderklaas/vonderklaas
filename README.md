@@ -1,13 +1,18 @@
-### Hello ✋
+# Hello World!
 
-- 👷‍♂️ LinkedIn: https://www.linkedin.com/in/garbalau-in/
-- 🐥 Twitter: https://twitter.com/garbalau_twitt
-- 📚 Articles: https://dev.to/garbalau
-- 📭 Gmail: garbalaunick@gmail.com
+## Get in touch 📨
 
-### Technologies
+ Work Profile — https://www.linkedin.com/in/garbalau-in/<br/>
+ Twitter — https://twitter.com/garbalau_twitt <br/>
+ Email — garbalaunick@gmail.com <br/> 
+
+## Technologies
 
 <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garbalau-github&layout=compact&hide_title=1&card_width=300" alt="Technologies used the most" />
+
+## Personal Projects
+
+https://www.earthquiet.com/
 
 <!--
 **garbalau-github/garbalau-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
