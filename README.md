@@ -2,8 +2,7 @@
 
 ## Get in touch 📨
 
- Work Profile — https://www.linkedin.com/in/garbalau-in/<br/>
- Twitter — https://twitter.com/garbalau_twitt <br/>
+ Work — https://www.linkedin.com/in/garbalau-in/<br/>
  Email — garbalaunick@gmail.com <br/> 
 
 ## Technologies
