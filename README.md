@@ -1,6 +1,6 @@
-# Hello World!
+# Hello everyone!
 
-### Get in touch 📨
+### Contact Me 📨
 
  Work — https://www.linkedin.com/in/garbalau-in/<br/>
  Email — garbalaunick@gmail.com <br/> 
@@ -9,7 +9,7 @@
 
 <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garbalau-github&layout=compact&hide_title=1&card_width=300" alt="Technologies used the most" />
 
-### Personal Projects
+### Projects
 
 https://www.earthquiet.com/
 
