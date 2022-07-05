@@ -1,8 +1,9 @@
 # Hello world ✋
 ### 🌎
 
- Work — https://www.linkedin.com/in/garbalau-in/<br/>
- Email — garbalaunick@gmail.com <br/> 
+ LinkedIn — https://www.linkedin.com/in/garbalau-in/<br/>
+ Twitter - https://twitter.com/garbalau_twitt<br/>
+ Email me — garbalaunick@gmail.com <br/> 
  EARTHQUIET - https://www.earthquiet.com/ <br />
 
 ### 🛠
