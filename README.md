@@ -3,10 +3,7 @@
 
 ### Hello world!
 
-I am software developer with 5 years of experience in application development. <br>
-Mainly, I am focused on front-end, but I am still familiar with building back-end services on <br>
-Node.js. I have experience with few JavaScript frameworks, like Angular, Vue and React. <br>
-However, I decided not to spread out and concentrate on React and its ecosystem. <br>
+I am a front-end engineer with almost 5 years of experience. 
 
 
 #### Contribution
