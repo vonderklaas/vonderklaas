@@ -3,7 +3,7 @@
 
 ### Hello world!
 
-I am a front-end engineer with almost 5 years of experience. 
+I am a frontend engineer with almost 5 years of experience. 
 
 
 #### Contribution
