@@ -17,3 +17,5 @@ Likewise, I am looking for a place to share and `exchange knowledge`. I prefer o
 [Markdown Blog](https://garbalau-blog.vercel.app/blog)
 <br>
 [React Query Article Translate](https://github.com/TkDodo/blog/pull/183)
+
+[![Nick Garbalau Stats](https://github-readme-stats.vercel.app/api/top-langs?username=garbalau-github&show_icons=true)](https://github.com/garbalau-github)
