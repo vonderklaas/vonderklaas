@@ -32,3 +32,7 @@ and [here](https://garbalau-blog.vercel.app/blog/react-query-overview) is the tr
 #### Languages
 
 [![Nick Garbalau Stats](https://github-readme-stats.vercel.app/api/top-langs?username=garbalau-github&show_icons=true)](https://github.com/garbalau-github)
+
+Love, <br>
+Nick <br>
+X
