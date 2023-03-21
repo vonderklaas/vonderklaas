@@ -3,11 +3,10 @@
 
 #### Summary
 
-My name is Nick and I am an engineer with 4+ years of experience in modern software development <br>
-I have always built a bridge between graphical design and technical implementation, taking an active role on both sides <br>
-I like to build UI with performance, scalability and maintainability in mind <br>
-Likewise, I am looking for a place to share and exchange knowledge <br>
-I prefer open-minded and conscious teams <br>
+My name is Nick and I am an engineer with `4+` years of experience in modern software development. <br>
+I have always built a bridge between graphical design and technical implementation, taking an active role <br>
+on both sides. I like to build UI with `performance`, `scalability` and `maintainability` in mind. <br>
+Likewise, I am looking for a place to share and `exchange knowledge`. I prefer open-minded and `conscious` teams.
 
 #### Personal Projects & Contribution
 
