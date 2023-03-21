@@ -10,6 +10,8 @@ Likewise, I am looking for a place to share and `exchange knowledge`. I prefer o
 
 #### Personal Projects & Contribution
 
+[EARTHQUIET](https://www.earthquiet.com/)
+<br>
 [Days Untill](https://garbalau-github.github.io/days-until.github.io/)
 <br>
 [Markdown Blog](https://garbalau-blog.vercel.app/blog)
