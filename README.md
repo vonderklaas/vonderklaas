@@ -3,10 +3,11 @@
 
 ### Summary
 
-As a software engineer, I have 5 years of experience in production. Mainly  <br>
-frontend, however, I am also competent with backend on Node.js environment. I like to build <br>
-software with performance, scalability and maintainability in mind. Likewise, I am looking for a place <br>
-where I can share and exchange knowledge. In life, I choose to work on amazing projects together with great people.
+As a software engineer, I have 5 years of experience in modern development. Mainly I <br>
+concentrate on frontend, however, I am also competent with backend on Node.js. I prefer to build software <br>
+with performance, scalability and maintainability in mind. I am used to active collaboration as well as working <br>
+independently. I am looking for a place where I can share and exchange knowledge. Also, I made my <br>
+decision long time ago, I choose to work on amazing projects together with amazing people.
 
 ### Contribution
 
