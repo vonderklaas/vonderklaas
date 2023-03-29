@@ -4,15 +4,13 @@
 
 ### Hello 🧘🏻‍♂️
 
-Twitter
 <a target="_blank" href="https://twitter.com/garbalau_n">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<br />
-LinkedIn
 <a target="_blank" href="https://www.linkedin.com/in/garbalau-in/">
   <img align="left" alt="Resume" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
 <br />
 
 As a seasoned Software Engineer with 5+ years of experience in modern software development, I am <br>
