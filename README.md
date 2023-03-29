@@ -12,6 +12,7 @@
 </a>
 
 <br />
+<br />
 
 As a seasoned Software Engineer with 5+ years of experience in modern software development, I am <br>
 passionate about building software with a focus on performance, scalability, and maintainability. With a <br>
