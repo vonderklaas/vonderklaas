@@ -1,7 +1,19 @@
 
 <!-- **garbalau-github/garbalau-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### Summary
+
+### Hello 🧘🏻‍♂️
+
+Twitter
+<a target="_blank" href="https://twitter.com/garbalau_n">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<br />
+LinkedIn
+<a target="_blank" href="https://www.linkedin.com/in/garbalau-in/">
+  <img align="left" alt="Resume" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<br />
 
 As a seasoned Software Engineer with 5+ years of experience in modern software development, I am <br>
 passionate about building software with a focus on performance, scalability, and maintainability. With a <br>
@@ -10,12 +22,17 @@ team members and working independently. I thrive in an environment where knowled
 eager to contribute my skills to a company that values innovation and teamwork. I am committed to building <br>
 amazing projects with amazing people, and I am excited to take my career to the next level
 
-### Projects
+
+### Personal Projects
 
 [EARTHQUIET](https://www.earthquiet.com/) <br>
 [Days Untill](https://garbalau-github.github.io/days-until.github.io/) <br>
 [Markdown Blog](https://garbalau-blog.vercel.app/blog)
 
-### Contribution
+### Open-Source Contribution
 
 [React Query Article Translate](https://github.com/TkDodo/blog/pull/183)
+
+<br />
+
+![Profile views](https://komarev.com/ghpvc/?username=garbalau-github&color=green)
