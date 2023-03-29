@@ -3,11 +3,12 @@
 
 ### Summary
 
-I have 5 years of experience in modern development. Mainly I concentrate on frontend, however, <br> 
-I am also competent with backend on Node.js. I prefer to build software with performance, scalability and <br>
-maintainability in mind. I am used to active collaboration as well as working independently. Likewise, I am <br>
-looking for a company where I can share and exchange knowledge. I made a decision long ago, I choose to <br>
-build amazing projects with amazing people.
+As a seasoned Software Engineer with 5+ years of experience in modern software development, I am <br>
+passionate about building software with a focus on performance, scalability, and maintainability. With a <br>
+strong focus on UI and expertise in Node.js backend development, I excel both in active collaboration with <br>
+team members and working independently. I thrive in an environment where knowledge is shared, and I am <br>
+eager to contribute my skills to a company that values innovation and teamwork. I am committed to building <br>
+amazing projects with amazing people, and I am excited to take my career to the next level
 
 ### Projects
 
