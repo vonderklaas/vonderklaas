@@ -26,7 +26,9 @@ amazing projects with amazing people, and I am excited to take my career to the 
 
 [EARTHQUIET](https://www.earthquiet.com/) <br>
 [Days Untill](https://garbalau-github.github.io/days-until.github.io/) <br>
-[Markdown Blog](https://garbalau-blog.vercel.app/blog)
+[Markdown Blog](https://garbalau-blog.vercel.app/blog) <br>
+[Chrome Exstension for YouTube](https://github.com/garbalau-github/youtube-bookmarks) <br>
+
 
 ### Open-Source Contribution
 
