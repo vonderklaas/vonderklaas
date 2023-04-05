@@ -6,12 +6,11 @@
 
 <br />
 
-As a seasoned Software Engineer with 5+ years of experience in modern software development, I am <br>
-passionate about building software with a focus on performance, scalability, and maintainability. With a <br>
-strong focus on UI and expertise in Node.js backend development, I excel both in active collaboration with <br>
-team members and working independently. I thrive in an environment where knowledge is shared, and I am <br>
-eager to contribute my skills to a company that values innovation and teamwork. I am committed to building <br>
-amazing projects with amazing people, and I am excited to take my career to the next level
+As a highly skilled full-stack software developer with over 5 years of experience, I have a proven track record <br>
+of delivering scalable and optimized solutions. In my latest roles, I developed applications with React, TypeScript, and Next.js. <br>
+Although I am primarily focused on UI, I also have experience building backend services with Node.js. <br>
+I strongly believe that the code we write is meant to be read by other humans, which is why I prioritize sticking <br>
+to the Clean Code approach and principles such as KISS, YAGNI, and DRY
 
 
 ### Personal Projects
