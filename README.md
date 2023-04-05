@@ -2,16 +2,8 @@
 <!-- **garbalau-github/garbalau-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-### Hello 🧘🏻‍♂️
+### console.log('Hello World!');
 
-<a target="_blank" href="https://twitter.com/garbalau_n">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a target="_blank" href="https://www.linkedin.com/in/garbalau-in/">
-  <img align="left" alt="Resume" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<br />
 <br />
 
 As a seasoned Software Engineer with 5+ years of experience in modern software development, I am <br>
@@ -30,7 +22,7 @@ amazing projects with amazing people, and I am excited to take my career to the 
 [Chrome Exstension for YouTube](https://github.com/garbalau-github/youtube-bookmarks) <br>
 
 
-### Open-Source Contribution
+### OS Contribution
 
 [React Query Article Translate](https://github.com/TkDodo/blog/pull/183)
 
