@@ -18,8 +18,6 @@ to the Clean Code approach and principles such as KISS, YAGNI, and DRY
 
 ### OS Contribution
 
-[React Query Article Translate](https://github.com/TkDodo/blog/pull/183)
-
-<br />
+[React Query Article Translate](https://github.com/TkDodo/blog/pull/183) <br />
 
 ![Profile views](https://komarev.com/ghpvc/?username=garbalau-github&color=green)
