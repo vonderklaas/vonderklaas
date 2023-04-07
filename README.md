@@ -2,12 +2,7 @@
 <!-- **garbalau-github/garbalau-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-### console.log('Hello World!');
-
-<br />
-
-As a highly skilled full-stack software developer with over 5 years of experience, I have a proven track record <br>
-of delivering scalable and optimized solutions. In my latest roles, I developed applications with React, TypeScript, and Next.js. <br>
+In my latest roles, I developed applications with React, TypeScript, and Next.js. <br>
 Although I am primarily focused on UI, I also have experience building backend services with Node.js. <br>
 I strongly believe that the code we write is meant to be read by other humans, which is why I prioritize sticking <br>
 to the Clean Code approach and principles such as KISS, YAGNI, and DRY
