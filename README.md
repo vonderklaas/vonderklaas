@@ -9,7 +9,7 @@ I strongly believe that the code we write is meant to be read by other humans, w
 to the Clean Code approach and principles such as KISS, YAGNI, and DRY
 
 
-### Worth your attention
+### More Personal Projects
 
 [Days Untill](https://garbalau-github.github.io/days-until.github.io/) <br>
 [YouTube Extension](https://github.com/garbalau-github/youtube-bookmarks) <br>
