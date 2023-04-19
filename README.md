@@ -13,4 +13,6 @@
 [React Best Practices](https://github.com/garbalau-github/react-best-practices) <br>
 [React Query Translation](https://github.com/TkDodo/blog/pull/183) <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garbalau-github&hide_progress=true)](https://github.com/garbalau-github/github-readme-stats)
+
 ![Profile views](https://komarev.com/ghpvc/?username=garbalau-github&color=green)
