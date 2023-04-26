@@ -4,9 +4,9 @@
 
 My name is Nick, and I am an obsessed life-long learner and software enthusiast
 
-I think it is crucial to have strong fundamental knowledge of Computer Science, <br>
-Data Structures and Algorithms because it allows you to flexibly move from technology to technology, <br>
-while understanding the underlying principles of them. For now, I chose to build web applications <br>
-with JavaScript, TypeScript, Node.js and modern UI libraries like React.
+I think it is crucial to have strong knowledge of Computer Science fundamentals, <br>
+Data Structures and Algorithms and evolution of programming languages, because it allows you to <br>
+flexibly move from technology to technology, while understanding the underlying principles. <br>
+For now, I chose to build web applications with JavaScript, TypeScript, Node.js and modern UI libraries like React.
 
 ![Profile views](https://komarev.com/ghpvc/?username=garbalau-github&color=green)
