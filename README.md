@@ -21,8 +21,10 @@ fn main() {
         age: 25,
         name: String::from("Nick"),
         hobbies: vec![
-            String::from("Computers"), 
-            String::from("Physics"), 
+            String::from("Computer Science"), 
+            String::from("Electrification"), 
+            String::from("Clean Energy"), 
+            String::from("Physics"),
             String::from("Astronomy")
         ]
     };
