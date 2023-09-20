@@ -1,27 +1,12 @@
-<!-- **garbalau-github/garbalau-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-```rust
-struct Developer {
-    hobbies: Vec<String>
-}
+Hey ✋
 
-impl Developer {
-    fn greet(&self) {
-        println!("I am interesed in: ");
-        for hobby in &self.hobbies {
-            println!("- {}", hobby);
-        }
-    } 
-}
+Software Engineer at [Anima](https://www.animaapp.com/) <br/>
+Teacher at [Coder Plus](https://coder-plus.netlify.app/)
 
-fn main() {
-    let nick = Developer {
-        hobbies: vec![
-            String::from("Computer Science"), 
-            String::from("Clean Energy"), 
-            String::from("Astronomy")
-        ]
-    };
-    nick.greet();
-}
-```
+I like to build things and work on amazing projects with amazing people!
+
+Checkout my work experience and recommendations [LinkedIn](https://www.linkedin.com/in/garbalau-in/)
+
+---
+
 ![Profile views](https://komarev.com/ghpvc/?username=garbalau-github&color=green)
