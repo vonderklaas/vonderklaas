@@ -1,7 +1,7 @@
 Hey ✋
 
 Software Engineer at [Anima](https://www.animaapp.com/) <br/>
-Teacher at [Coder Plus](https://coder-plus.netlify.app/)
+Mentor at [Coder Plus](https://coder-plus.netlify.app/)
 
 I like to build things and work on amazing projects with amazing people!
 
