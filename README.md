@@ -1,7 +1,10 @@
-<h4>
-  <code>fmt.Println("Hello, world!")</code>
-</h4>
+<h3>Aloha 🙋‍♂️</h3>
+<code>about: 8+ years of building software & leading teams in both big corporate and fast-paced startups</code> <br />
+<code>stack: go, postgresql, ci/cd, microservices, docker, aws, typescript, react, e2e tests, stripe</code>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonderklaas&layout=compact&langs_count=6" />
+<br />
+<br />
 
-![Profile Views](https://komarev.com/ghpvc/?username=garbalau-github&color=green) 
+[LinkedIn](https://www.linkedin.com/in/vonderklaas/) <br />
+<br />
+![Profile Views](https://komarev.com/ghpvc/?username=garbalau-github&color=yellow) 
