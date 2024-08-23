@@ -5,7 +5,7 @@ Figma plugins, IDE extensions, Chrome add-ons, Telegram bots, back-end services,
 
 ---
 
-Let's follow each me on [X](https://x.com/vonderklaas) and let's connect on [LinkedIn](https://www.linkedin.com/in/vonderklaas/)
+Let's follow each other on [X](https://x.com/vonderklaas) and let's connect on [LinkedIn](https://www.linkedin.com/in/vonderklaas/)
 
 ---
 
