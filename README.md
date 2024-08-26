@@ -4,4 +4,4 @@ My name is Nick, and over the past 8+ years of my career, I have had the opportu
 
 You can connect with me on [X](https://x.com/vonderklaas) and on [LinkedIn](https://www.linkedin.com/in/vonderklaas/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=garbalau-github&color=yellow) 
+![Profile Views](https://komarev.com/ghpvc/?username=garbalau-github&color=blue) 
