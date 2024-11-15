@@ -1,3 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=garbalau-github&color=blue) 
+I am here, building 🏌️‍♂️ <br />
+Python, Flask, PostgreSQL, Railway, React, TypeScript 🥞 <br />
 
-I am here.
+![Profile Views](https://komarev.com/ghpvc/?username=garbalau-github&color=blue) 
