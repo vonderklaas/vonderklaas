@@ -1,7 +1,7 @@
-🩵 STACK: 
-- Python (Flask)
+STACK 🩵 
+- Python, Flask, Django
+- PostgreSQL, MongoDB, ORMs
+- JavaScript, React, NextJS, TypeScript
 - Railway, Vercel
-- SQL (PostgreSQL) / NoSQL (MongoDB)
-- React (NextJS, TypeScript) <br />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=garbalau-github&color=blue) 
