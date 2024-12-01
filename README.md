@@ -1,4 +1,3 @@
-STACK 🩵 
 - Python, Flask, Django
 - PostgreSQL, MongoDB, ORMs
 - JavaScript, React, NextJS, TypeScript
