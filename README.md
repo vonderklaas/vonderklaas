@@ -1,7 +1,6 @@
-### Yo!
+### Yo, science!
 
-
-Are we building on Moon or Mars?
+Moon or Mars?
 
 #python #ai #math #web #typescript #ui
 
