@@ -1,4 +1,4 @@
-### Yo, science!
+### Yo, Science!
 
 Moon or Mars?
 
