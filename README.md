@@ -1,4 +1,4 @@
-### Yo, mister White! Science!
+### Yo!
 
 Moon or Mars?
 
