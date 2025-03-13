@@ -1,5 +1,6 @@
 ### Yo!
-![2025-03-13 9 18 53 PM](https://github.com/user-attachments/assets/74b58d71-439e-460e-af4e-e20d441c7d3c)
+
+<img src="https://pbs.twimg.com/profile_banners/1886404419173892098/1741868776/1500x500" width="100%" height="200" alt="Banner" />
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=garbalau-github&color=blue)
