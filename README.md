@@ -1,3 +1,1 @@
-### Yo 🤘🏻 !
-
-![Profile Views](https://komarev.com/ghpvc/?username=garbalau-github&color=red)
+![Total Views](https://komarev.com/ghpvc/?username=garbalau-github&color=blue)
