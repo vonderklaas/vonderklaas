@@ -1,3 +1,3 @@
-I’m a Software Engineer with an AI-first mindset, specializing in Go, Python, and TypeScript. I’ve built scalable products for Fortune 500s, Y Combinator startups, and high-growth companies, delivering systems that span microservices, cloud infrastructure, and AI-driven apps.
+Founder and Lead Software Engineer with a Computer Science background and nearly a decade across start-ups and big tech. Remote-first, AI-driven, and committed to building, leading, and learning at every stage.
 
-![Total Views](https://komarev.com/ghpvc/?username=garbalau-github&color=red)
+![Total Views](https://komarev.com/ghpvc/?username=garbalau-github&color=yellow)
